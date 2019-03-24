@@ -1,2 +1,1 @@
-# Python
-Python 3 and its libraries examples
+#Study Material for new batch
