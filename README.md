@@ -1,2 +1,2 @@
 
-Study material for new batches
+Study material
